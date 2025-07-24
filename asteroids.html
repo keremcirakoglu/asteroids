@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asteroids</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+  </head>
+
+  <body>
+    <canvas id="gameCanvas" width="1760" height="990"></canvas>
+    <img id="gameLogo" src="/images/logo.png" alt="Asteroids Logo" />
+    <button id="startButton">Start</button>
+    <div id="pauseMenu">
+      <p>GAME PAUSED</p>
+      <button onclick="resumeGame()">Resume</button>
+      <button onclick="showMainScreen()">Main Menu</button>
+    </div>
+    <button id="pauseButton">Pause</button>
+    <div id="blackHole" style="display: none"></div>
+  </body>
+</html>
