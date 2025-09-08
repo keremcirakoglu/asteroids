@@ -7,16 +7,14 @@ An enhanced version of the classic Asteroids game, originally based on the [Free
 
 
 ## 🎨 Screenshots
-
+![Screenshot](screenshots/screenshot1.png)
+![Screenshot](screenshots/screenshot2.png)
+![Screenshot](screenshots/screenshot3.png)
 
 
 ## 🎮 Features
 
-### Development Journey
-This project started as a learning exercise following the [FreeCodeCamp Asteroids tutorial](https://www.youtube.com/watch?v=H9CSWMxJx84) by Drew Conley, but has been extensively modified and enhanced with numerous custom features:
-
-
-### Core Gameplay (Enhanced from Original Tutorial)
+### Core Gameplay
 - **Classic Asteroids Mechanics**: Pilot your spaceship through space using realistic physics
 - **Progressive Difficulty**: Each level increases the challenge with more asteroids
 - **Multiple Lives System**: Start with 3 lives and earn more through skillful play
