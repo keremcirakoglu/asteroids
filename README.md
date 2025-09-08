@@ -1,9 +1,10 @@
 # 🚀 Asteroids - Enhanced Space Adventure
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://keremcirakoglu.github.io/asteroids/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 An enhanced version of the classic Asteroids game, originally based on the [FreeCodeCamp tutorial](https://www.youtube.com/watch?v=H9CSWMxJx84) but extensively modified with custom features including boss battles, black holes, advanced particle effects, and modern visual design.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://keremcirakoglu.github.io/asteroids/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
 ## 🎨 Screenshots
